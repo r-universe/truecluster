@@ -1,0 +1,14 @@
+[
+  {
+    "package": "bit",
+    "oncran": true
+  },
+  {
+    "package": "bit64",
+    "oncran": true
+  },
+  {
+    "package": "ff",
+    "oncran": true
+  }
+]
