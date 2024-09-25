@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bit"]
-	path = bit
-	url = https://github.com/truecluster/bit
-[submodule "bit64"]
-	path = bit64
-	url = https://github.com/truecluster/bit64
 [submodule "ff"]
 	path = ff
 	url = https://github.com/truecluster/ff
